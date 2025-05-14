@@ -5,6 +5,7 @@ This Streamlit app performs sentiment analysis (Positive, Negative, Neutral) usi
 ## 📁 Features
 - Paste Your Text and get result and also
 - Upload a CSV file with a `text` column
+- Involves Search bar, Download option and Full screen mode
 - Predict sentiment using TF-IDF + Logistic Regression
 - View sentiment distribution charts
 - Download results as a CSV
