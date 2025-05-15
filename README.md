@@ -1,6 +1,11 @@
 # 🧠 Sentiment Analysis App (Text and CSV Upload)
 
 This Streamlit app performs sentiment analysis (Positive, Negative, Neutral) using traditional ML techniques.
+🚀 Sentiment Analysis App using Natural Language Processing and Machine Learning to classify text as Positive, Negative, or Neutral.
+🧠 Built with Streamlit for interactive UI and scikit-learn for modeling.
+📊 Supports real-time text input and CSV file upload for batch analysis.
+🔍 Ideal for analyzing customer feedback, product reviews, and social media sentiments.
+💡 Future scope includes emotion detection, multi-language support, and live sentiment tracking via APIs.
 
 ## 📁 Features
 - Paste Your Text and get result and also
