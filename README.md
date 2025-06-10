@@ -30,6 +30,10 @@ This Streamlit app performs sentiment analysis (Positive, Negative, Neutral) usi
 
 ```bash
 pip install -r requirements.txt
+streamlit 
+scikit-learn 
+pandas 
+nltk
 
 
 
